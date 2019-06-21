@@ -1,0 +1,17 @@
+C:\Users\RithardLL\Desktop\JuegoLego\JuegoLego\bin\Debug\JuegoLego.exe.config
+C:\Users\RithardLL\Desktop\JuegoLego\JuegoLego\bin\Debug\JuegoLego.exe
+C:\Users\RithardLL\Desktop\JuegoLego\JuegoLego\bin\Debug\JuegoLego.pdb
+C:\Users\RithardLL\Desktop\JuegoLego\JuegoLego\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+C:\Users\RithardLL\Desktop\JuegoLego\JuegoLego\obj\Debug\JuegoLego.csprojAssemblyReference.cache
+C:\Users\RithardLL\Desktop\JuegoLego\JuegoLego\obj\Debug\JuegoLego.Pestañas.resources
+C:\Users\RithardLL\Desktop\JuegoLego\JuegoLego\obj\Debug\JuegoLego.Principal.resources
+C:\Users\RithardLL\Desktop\JuegoLego\JuegoLego\obj\Debug\JuegoLego.Properties.Resources.resources
+C:\Users\RithardLL\Desktop\JuegoLego\JuegoLego\obj\Debug\JuegoLego.csproj.GenerateResource.cache
+C:\Users\RithardLL\Desktop\JuegoLego\JuegoLego\obj\Debug\JuegoLego.csproj.CoreCompileInputs.cache
+C:\Users\RithardLL\Desktop\JuegoLego\JuegoLego\obj\Debug\JuegoLego.csproj.CopyComplete
+C:\Users\RithardLL\Desktop\JuegoLego\JuegoLego\obj\Debug\JuegoLego.exe
+C:\Users\RithardLL\Desktop\JuegoLego\JuegoLego\obj\Debug\JuegoLego.pdb
+C:\Users\RithardLL\Desktop\JuegoLego\JuegoLego\obj\Debug\JuegoLego.Login.resources
+C:\Users\RithardLL\Desktop\JuegoLego\JuegoLego\obj\Debug\JuegoLego.Controles.Usuario.resources
+C:\Users\RithardLL\Desktop\JuegoLego\JuegoLego\obj\Debug\JuegoLego.frmRegisterUser.resources
+C:\Users\RithardLL\Desktop\JuegoLego\JuegoLego\obj\Debug\JuegoLego.Controles.textUser.resources
